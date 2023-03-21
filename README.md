@@ -1,6 +1,3 @@
-## Steps
-
-- don't worry about CSS, checkout example image
 
 #### Import Data
 
